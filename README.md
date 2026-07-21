@@ -3,9 +3,9 @@
 연구 실적 요약(석사-박사)
 - 국내 학술대회 논문 2편, 국내 저널 논문 1편, 해외 학술대회 논문 2편, 해외 SCIE 논문 2편
 - 국내 특허 출원 2편, 해외(미국) 특허 출원 1편
-- 해외 객체 추적 챌린지(Visual Object Tracking and Segmentation challenge) 참가
 
 활동 및 수상 요약
+- 해외 객체 추적 챌린지(Visual Object Tracking and Segmentation challenge) 참가
 - UST ETRI스쿨 학생회장 (22/03 ~ 24/02)
 - UST ETRI스쿨 인공지능 전공 조교 (22/03 ~ 24/02, 25/03 ~ 26/02)
 - 2021년도 한국소프트웨어감정평가학회 우수 논문상 수상
