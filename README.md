@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[웹진 UST On] 나누는 소통으로 함께 성장하는 연구 (Vol.94)
+https://www.ust.ac.kr/bbs/BBSMSTR_000000000759/view.do
+
 <!--
 **USTDongHwanLee/USTDongHwanLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
